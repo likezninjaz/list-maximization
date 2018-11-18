@@ -1,0 +1,1 @@
+export const getScrollY = (state: any) => state.list.scrollY;
