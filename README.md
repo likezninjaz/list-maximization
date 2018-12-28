@@ -1,6 +1,6 @@
 # React List Maximization
 
-Example of maximisation of items list when user is scrolling the page 
+Example of maximization of items list when user is scrolling the page 
 Technology stack: React.js + Redux + TypeScript + Styled Components + Lodash
 
 ## Getting Started
